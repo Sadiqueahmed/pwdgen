@@ -1,2 +1,2 @@
-# pwdgen
+# Password Generator 
 
